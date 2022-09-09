@@ -1,5 +1,6 @@
-# login_signup_app
+# Login/Sign-up App
 
-A new Flutter project.
-
-
+<div style="display: flex;">
+  <img style="width: 30%;" src="assets/login_screenshot.jpg">
+  <img style="width: 30%;" src="assets/register_screenshot.jpg">
+</div>
